@@ -1,4 +1,4 @@
-# Follow_bot-instagram-
+# Follow-bot-instagram
 Simple follow bot for Instagram. Exploring marketing options using this script. 
 Need to fix bot restriction message that pops up after a certain period due to Instagram TOS 
 Need to fix the scroll logic 
